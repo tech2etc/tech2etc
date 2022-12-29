@@ -26,12 +26,12 @@
 - ⚡ Fun fact **I love traveling and capture the moments.**
 
 ### Course to Improve SKILLS:
-1️⃣ WordPress Insider: https://tech2etc.com/wordpress-course
-2️⃣ Bootstrap With Projects: https://tech2etc.com/bootstrap
-3️⃣ Web Development For Beginners: https://tech2etc.com/webdev
-4️⃣ JavaScript With Projects: https://tech2etc.com/javascript
-5️⃣ Python With Projects: https://tech2etc.com/python
-🎁 Get Certificate: https://courses.tech2etc.com/
+- 1️⃣ WordPress Insider: https://tech2etc.com/wordpress-course
+- 2️⃣ Bootstrap With Projects: https://tech2etc.com/bootstrap
+- 3️⃣ Web Development For Beginners: https://tech2etc.com/webdev
+- 4️⃣ JavaScript With Projects: https://tech2etc.com/javascript
+- 5️⃣ Python With Projects: https://tech2etc.com/python
+- 🎁 Get Certificate: https://courses.tech2etc.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
