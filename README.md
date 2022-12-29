@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm tech2etc</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<p>"Tech2etc is a non-profit organization that creates e-learning programming content. It is one of the biggest communities of Bangladesh who contribute programming content. More than 83,000 students at Tech2etc are learning to code by constructing Real-World Projects. The founder and CEO of this company is Md. Fahimul Kabir Chowdhury."</p>
+<h1 align="center">Hi 👋, I'm Tech2etc</h1>
+<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tech2etc&label=Profile%20views&color=0e75b6&style=flat" alt="tech2etc" /> </p>
+
+<p>"Tech2etc is a non-profit organization that creates e-learning programming content. It is one of the biggest communities of Bangladesh who contribute programming content. More than 83,000 students at Tech2etc are learning to code by constructing Real-World Projects. The founder and CEO of this company is Md. Fahimul Kabir Chowdhury."</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tech2etc" alt="tech2etc" /></a> </p>
 
@@ -46,7 +46,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tech2etc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tech2etc" /></a><a href="https://ko-fi.com/tech2etc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tech2etc" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tech2etc&show_icons=true&locale=en&layout=compact" alt="tech2etc" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tech2etc&show_icons=true&locale=en&layout=compact" alt="tech2etc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tech2etc&show_icons=true&locale=en" alt="tech2etc" /></p>
 
